@@ -16,9 +16,9 @@ This project involves the complete design, implementation, and testing of a rela
 
 ## Database Schema (EER Diagram)
 
-The database schema is meticulously designed using an Enhanced Entity-Relationship (EER) Diagram, illustrating the entities, their attributes, and the relationships between them. The diagram is logically grouped for clarity, reflecting different functional areas of the Airbnb platform.
+The database schema is meticulously designed using an Entity-Relationship (ERD) Diagram, illustrating the entities, their attributes, and the relationships between them. The diagram is logically grouped for clarity, reflecting different functional areas of the Airbnb platform.
 
-![EER Diagram] C:\Users\wajih\OneDrive\Desktop\Air Bnb
+![ERD Diagram] (ERD_visual.png)
 
 
 
