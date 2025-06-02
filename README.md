@@ -18,7 +18,7 @@ This project involves the complete design, implementation, and testing of a rela
 
 The database schema is meticulously designed using an Entity-Relationship (ERD) Diagram, illustrating the entities, their attributes, and the relationships between them. The diagram is logically grouped for clarity, reflecting different functional areas of the Airbnb platform.
 
-![ERD Diagram] (ERD_visual.png)
+![ERD Diagram](ERD_visual.png)
 
 
 
